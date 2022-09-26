@@ -1,0 +1,51 @@
+/*Crocifisso Pusateri 9/25/2022 Web Programming*/
+body {
+    background: beige;
+    width: 1100px;
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    margin: auto;
+    font-size: larger;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+div {
+    color: black;
+    text-align: left;
+    white-space: pre;
+}
+
+.lewis {
+    margin-bottom: 20px;
+}
+
+.ivcc {
+    margin-bottom: 20px;
+}
+
+.ivvc {
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: left;
+}
